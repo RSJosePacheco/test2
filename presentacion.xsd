@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="presentacion">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="titulo" type="xs:string" />
+			<xs:complexType name="diapositiva" >
+				
+			</xs:complexType>
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>

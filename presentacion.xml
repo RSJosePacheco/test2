@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presentacion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="presentacion.xsd" >
+	<titulo>
+		Curso de bases de datos 2
+	</titulo>
+	<diapositiva>
+		<parrafo fuente="Arial" alineacion="Izquierda" tamaño="19pt">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua.
+		</parrafo>
+		<imagen ubicacion="\img" titulo="Imagen 1" altura="29px" anchura="30px"/>
+		<tabla borde="1px" margen="1px" exterior="1px">
+			<encabezado>
+				<fila>
+					<columna>
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incididunt ut labore et dolore magna aliqua.
+					</columna>
+					<columna>
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incididunt ut labore et dolore magna aliqua.
+					</columna>
+				</fila>
+			</encabezado>
+			<cuerpo>
+				<fila>
+					<columna>
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incididunt ut labore et dolore magna aliqua.
+					</columna>
+					<columna>
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incididunt ut labore et dolore magna aliqua.
+					</columna>
+				</fila>
+			</cuerpo>
+		</tabla>
+	</diapositiva>
+</presentacion>
